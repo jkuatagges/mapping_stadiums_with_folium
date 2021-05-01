@@ -1,2 +1,3 @@
-# mapping_stadiums_with_folium
+# Mapping Stadiums with Folium
+
 Using folium, pandas and leaflet API to map stadia located in Kenya.
